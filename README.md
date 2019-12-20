@@ -1,2 +1,3 @@
 # switch-visit
-std::visit but based on switch
+
+std::visit based on templated switch
